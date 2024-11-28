@@ -1,0 +1,27 @@
+{
+  "name": "food_deliveryapp",
+  "version": "1.0.0",
+  "description": "This is React Project by Saim Hur Hasan",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "project",
+    "Saim"
+  ],
+  "author": "Saim Hasan",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "browserslist": [
+    "last 10 versions"
+  ]
+}
